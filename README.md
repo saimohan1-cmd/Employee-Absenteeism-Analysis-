@@ -1,4 +1,3 @@
-# Employee-Absenteeism-Analysis
 #  Employee Absenteeism Analysis
 
 This project focuses on analyzing and predicting employee absenteeism using HR data. By examining various demographic and organizational attributes, we aim to understand what factors are most associated with absence and provide actionable insights for HR decision-making.
