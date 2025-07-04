@@ -22,7 +22,6 @@ This project focuses on analyzing and predicting employee absenteeism using HR d
 
 - Explore and visualize absenteeism patterns
 - Build a predictive model to identify likely absentee employees
-- Explain model predictions using SHAP for transparency
 
 ---
 
@@ -46,16 +45,12 @@ This project focuses on analyzing and predicting employee absenteeism using HR d
 - Trained a **Random Forest Classifier**
 - Evaluated using accuracy, precision, recall, and F1-score
 
-### 5. **Model Interpretability**
-- Used **SHAP** to understand feature importance and individual predictions
-
 ---
 
 ## Key Insights
 
 - Absenteeism is more influenced by **organizational** features (e.g., Division, Department) than by **personal** ones (like gender).
 - A significant number of employees show **no absenteeism**, while others are absent at varying levels.
-- The model identifies key departments and divisions prone to absenteeism.
 
 ---
 
@@ -65,7 +60,6 @@ This project focuses on analyzing and predicting employee absenteeism using HR d
   - Pandas, NumPy
   - Seaborn, Matplotlib
   - Scikit-learn
-  - SHAP
 - Jupyter Notebook
 
 ---
