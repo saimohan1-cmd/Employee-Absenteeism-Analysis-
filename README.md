@@ -51,7 +51,7 @@ This project focuses on analyzing and predicting employee absenteeism using HR d
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Absenteeism is more influenced by **organizational** features (e.g., Division, Department) than by **personal** ones (like gender).
 - A significant number of employees show **no absenteeism**, while others are absent at varying levels.
